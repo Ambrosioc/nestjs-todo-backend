@@ -1,6 +1,6 @@
 # Projet Todo : Application de Gestion de Tâches avec NestJS
 
-![Logo NestJS](https://nestjs.com/img/logo-small.svg)
+![Logo NestJS](src/assets/nestjs-ar21.svg)
 
 Ce projet a pour objectif de créer une API de gestion de tâches en utilisant NestJS, une plateforme Node.js. L'application permet d'effectuer des opérations de base telles que la création, la lecture, la mise à jour et la suppression de tâches.
 
